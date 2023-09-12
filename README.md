@@ -1,9 +1,2 @@
-# oss_seungeun
-open source software 
-echo "# BeckyBaek" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/BeckyBaek/BeckyBaek.git
-git push -u origin main
+#BeckyBaek
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
